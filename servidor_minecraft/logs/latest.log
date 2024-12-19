@@ -60,3 +60,5 @@
 [19Dec2024 05:20:30.448] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [19Dec2024 05:46:15.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David343indus[/127.179.119.246:41771] logged in with entity id 37 at (1.5, 77.0, 27.5)
 [19Dec2024 05:46:15.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David343indus joined the game
+[19Dec2024 05:50:23.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David343indus lost connection: Disconnected
+[19Dec2024 05:50:23.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David343indus left the game

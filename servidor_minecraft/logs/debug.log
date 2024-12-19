@@ -712,3 +712,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 05:46:12.982] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
 [19Dec2024 05:46:15.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David343indus[/127.179.119.246:41771] logged in with entity id 37 at (1.5, 77.0, 27.5)
 [19Dec2024 05:46:15.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David343indus joined the game
+[19Dec2024 05:50:23.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David343indus lost connection: Disconnected
+[19Dec2024 05:50:23.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David343indus left the game
+[19Dec2024 05:50:30.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 05:50:30.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 05:55:30.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 05:55:30.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
